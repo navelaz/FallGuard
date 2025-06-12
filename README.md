@@ -1,2 +1,2 @@
 # FallGuard
-PID-controlled drone for real-time fall event recognition using computer vision
+PID-controlled drone (RoboMaster TT Tello Talent) for real-time fall event recognition using computer vision
